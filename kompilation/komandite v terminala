@@ -1,0 +1,5 @@
+//Използваните команди са :
+//gcc -c transformation.c -o transformation.o
+//gcc -c main.c -o main.o
+//gcc transformation.o main.o -o my_program
+// ./my_program
